@@ -1,0 +1,7 @@
+[submodule "telegraf"]
+	path = telegraf
+	url = https://github.com/mythay/telegraf.git
+	branch = mod_version
+[submodule "lark"]
+	path = lark
+	url = https://github.com/mythay/lark.git
